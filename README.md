@@ -7,7 +7,7 @@ it is the task of Virtual web dev & design Internship of Oasis .
 
 ## 🚀 Live Demo
 
-Your site is live at: [MS Dhoni Tribute Page](https://osmaditya.github.io/MSDhoni-Tribute-Page/)
+Your site is live at: [MS Dhoni Tribute Page](https://msdhoni-tributepage.netlify.app/)
 
 ## 📂 Project Structure
 
