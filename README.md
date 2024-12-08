@@ -30,3 +30,7 @@ Your site is live at: [MS Dhoni Tribute Page](https://msdhoni-tributepage.netlif
     ```bash
     cd MSDhoni-Tribute-Page
 3. Open index.html in your browser to view the page.
+
+## 🛡️ License
+
+   [MIT License](LICENSE)
